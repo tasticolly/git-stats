@@ -1,4 +1,4 @@
-## git-stats
+## gitfame
 
 The application calculates the following statistics for repository contributors:
 
